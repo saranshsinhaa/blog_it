@@ -1,0 +1,32 @@
+footer {
+  background-color: #fff;
+  color: #0063a5;
+  padding: 20px;
+  text-align: center;
+  font-family: "Staatliches", cursive;
+}
+
+.footer-container {
+  border-top: 1px solid #ccc;
+  padding-top: 16px;
+  margin-left: 100px;
+  margin-right: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-logo h2 {
+  margin: 0;
+}
+
+.social-links a {
+  color: #0063a5;
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.social-links a:hover {
+  color: #00bcd4;
+}
